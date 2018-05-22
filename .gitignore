@@ -1,0 +1,7 @@
+./config
+<<<<<<< HEAD
+/cache/*
+!/cache/.gitkeep
+.netbeans.xml
+=======
+>>>>>>> b83e957... dodanie pliku .gitignore
